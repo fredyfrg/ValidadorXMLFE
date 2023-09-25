@@ -1,0 +1,12 @@
+C:\Users\FRG\source\repos\ValidadorFE\bin\Debug\ValidadorFE.exe.config
+C:\Users\FRG\source\repos\ValidadorFE\bin\Debug\ValidadorFE.exe
+C:\Users\FRG\source\repos\ValidadorFE\bin\Debug\ValidadorFE.pdb
+C:\Users\FRG\source\repos\ValidadorFE\bin\Debug\ChilkatDotNet46.dll
+C:\Users\FRG\source\repos\ValidadorFE\obj\Debug\ValidadorFE.csproj.AssemblyReference.cache
+C:\Users\FRG\source\repos\ValidadorFE\obj\Debug\ValidadorFE.Validador.resources
+C:\Users\FRG\source\repos\ValidadorFE\obj\Debug\ValidadorFE.Properties.Resources.resources
+C:\Users\FRG\source\repos\ValidadorFE\obj\Debug\ValidadorFE.csproj.GenerateResource.cache
+C:\Users\FRG\source\repos\ValidadorFE\obj\Debug\ValidadorFE.csproj.CoreCompileInputs.cache
+C:\Users\FRG\source\repos\ValidadorFE\obj\Debug\ValidadorFE.csproj.CopyComplete
+C:\Users\FRG\source\repos\ValidadorFE\obj\Debug\ValidadorFE.exe
+C:\Users\FRG\source\repos\ValidadorFE\obj\Debug\ValidadorFE.pdb
